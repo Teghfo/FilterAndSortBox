@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sort-btn {
+  width: 130px;
+}
+
+.form-check-input {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-top: 0 !important;
+  margin-left: -2.25rem;
+}
+
+.form-check {
+  padding-left: 1.25rem;
+  display: flex;
+  align-items: center;
+}
+
+.form-check-label {
+  margin-left: 10px !important;
+}
